@@ -11,4 +11,16 @@
     "nome_habilidade_dois": "Ataque de salto",
     "descricao_habilidade_dois": "kasjdnaksdnaiuhwierhweiruwieruhweiurhweirhweirwheirwheriuwe"
   },
+  {
+    "id": 2,
+    "imagem": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Pachycephalosaurus.png",
+    "nome": "Pachycephalosaurus",
+    "funcao": "Atropelamento e fuga",
+    "imagem_habilidade_um": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Pachycephalosaurus_skill_01.png",
+    "nome_habilidade_um": "Butt-Head voador",
+    "descricao_habilidade_um": "kdsjfnskdfnskdfnskdfnskdfnskjdfnskdjfnskjdfnskdjfsnkjfsdfnskfsnd",
+    "imagem_habilidade_dois": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Pachycephalosaurus_skill_02.png",
+    "nome_habilidade_dois": "Evitar ataque",
+    "descricao_habilidade_dois": "kasjdnaksdnaiuhwierhweiruwieruhweiurhweirhweirwheirwheriuwe"
+  },
 ]
