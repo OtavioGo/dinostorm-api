@@ -1,1 +1,9 @@
-
+[
+  {
+    "id": 1,
+    "nome": "Coelophysis",
+    "funcao": "Atropelamento e fuga",
+    "habilidade_um": "Golpes rápidos",
+    "habilidade_dois": "Ataque de salto"
+  },
+]
