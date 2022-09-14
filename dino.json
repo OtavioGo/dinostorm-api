@@ -1,9 +1,14 @@
 [
   {
     "id": 1,
+    "imagem": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Coelophysis.png",
     "nome": "Coelophysis",
     "funcao": "Atropelamento e fuga",
-    "habilidade_um": "Golpes rápidos",
-    "habilidade_dois": "Ataque de salto"
+    "imagem_habilidade_um": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/coelophysis_skill_01.png",
+    "nome_habilidade_um": "Golpes rápidos",
+    "descricao_habilidade_um": "kdsjfnskdfnskdfnskdfnskdfnskjdfnskdjfnskjdfnskdjfsnkjfsdfnskfsnd",
+    "imagem_habilidade_dois": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/coelophysis_skill_02.png",
+    "nome_habilidade_dois": "Ataque de salto",
+    "descricao_habilidade_dois": "kasjdnaksdnaiuhwierhweiruwieruhweiurhweirhweirwheirwheriuwe"
   },
 ]
