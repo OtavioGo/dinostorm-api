@@ -23,4 +23,76 @@
     "nome_habilidade_dois": "Evitar ataque",
     "descricao_habilidade_dois": "kasjdnaksdnaiuhwierhweiruwieruhweiurhweirhweirwheirwheriuwe"
   },
+  {
+    "id": 3,
+    "imagem": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Parasaurolophus.png",
+    "nome": "Parasaurolophus",
+    "funcao": "All-rounder",
+    "imagem_habilidade_um": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Parasaurolophus_skill_01.png",
+    "nome_habilidade_um": "Ataque chicote de cauda",
+    "descricao_habilidade_um": "kdsjfnskdfnskdfnskdfnskdfnskjdfnskdjfnskjdfnskdjfsnkjfsdfnskfsnd",
+    "imagem_habilidade_dois": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Parasaurolophus_skill_02.png",
+    "nome_habilidade_dois": "Ataque de chute",
+    "descricao_habilidade_dois": "kasjdnaksdnaiuhwierhweiruwieruhweiurhweirhweirwheirwheriuwe"
+  },
+  {
+    "id": 4,
+    "imagem": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Centrosaurus.png",
+    "nome": "Centrosaurus",
+    "funcao": "All-rounder",
+    "imagem_habilidade_um": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Centrosaurus_skill_01.png",
+    "nome_habilidade_um": "Ataque traço",
+    "descricao_habilidade_um": "kdsjfnskdfnskdfnskdfnskdfnskjdfnskdjfnskjdfnskdjfsnkjfsdfnskfsnd",
+    "imagem_habilidade_dois": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Centrosaurus_skill_02.png",
+    "nome_habilidade_dois": "Ataque de escudo",
+    "descricao_habilidade_dois": "kasjdnaksdnaiuhwierhweiruwieruhweiurhweirhweirwheirwheriuwe"
+  },
+  {
+    "id": 5,
+    "imagem": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Brachiosaurus.png",
+    "nome": "Brachiosaurus",
+    "funcao": "Tank",
+    "imagem_habilidade_um": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Brachiosaurus_skill_01.png",
+    "nome_habilidade_um": "Ataque de peito",
+    "descricao_habilidade_um": "kdsjfnskdfnskdfnskdfnskdfnskjdfnskdjfnskjdfnskdjfsnkjfsdfnskfsnd",
+    "imagem_habilidade_dois": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Brachiosaurus_skill_02.png",
+    "nome_habilidade_dois": "Ground Stomp",
+    "descricao_habilidade_dois": "kasjdnaksdnaiuhwierhweiruwieruhweiurhweirhweirwheirwheriuwe"
+  },
+  {
+    "id": 6,
+    "imagem": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Ankylosaurus.png",
+    "nome": "Ankylosaurus",
+    "funcao": "Tank",
+    "imagem_habilidade_um": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/ankylosaurus_skill_01.png",
+    "nome_habilidade_um": "Ataque de Cauda Esmagador",
+    "descricao_habilidade_um": "kdsjfnskdfnskdfnskdfnskdfnskjdfnskdjfnskjdfnskdjfsnkjfsdfnskfsnd",
+    "imagem_habilidade_dois": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/ankylosaurus_skill_02.png",
+    "nome_habilidade_dois": "Murro no chão",
+    "descricao_habilidade_dois": "kasjdnaksdnaiuhwierhweiruwieruhweiurhweirhweirwheirwheriuwe"
+  },
+  {
+    "id": 7,
+    "imagem": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Ankylosaurus.png",
+    "nome": "Carnotaurus",
+    "funcao": "Força",
+    "imagem_habilidade_um": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Carnotaurus_skill_01.png",
+    "nome_habilidade_um": "Ataque de carne",
+    "descricao_habilidade_um": "kdsjfnskdfnskdfnskdfnskdfnskjdfnskdjfnskjdfnskdjfsnkjfsdfnskfsnd",
+    "imagem_habilidade_dois": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Carnotaurus_skill_02.png",
+    "nome_habilidade_dois": "Ataque carnificina",
+    "descricao_habilidade_dois": "kasjdnaksdnaiuhwierhweiruwieruhweiurhweirhweirwheirwheriuwe"
+  },
+  {
+    "id": 8,
+    "imagem": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Tyrannosaurus%20Rex.png",
+    "nome": "Tiranossauro",
+    "funcao": "Força",
+    "imagem_habilidade_um": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Trex_skill_01.png",
+    "nome_habilidade_um": "Mordida brutal",
+    "descricao_habilidade_um": "kdsjfnskdfnskdfnskdfnskdfnskjdfnskdjfnskjdfnskdjfsnkjfsdfnskfsnd",
+    "imagem_habilidade_dois": "https://dinostorm.com/wp-content/themes/arras/images/dinostorm/Dinos/Trex_skill_02.png",
+    "nome_habilidade_dois": "Grito de guerra",
+    "descricao_habilidade_dois": "kasjdnaksdnaiuhwierhweiruwieruhweiurhweirhweirwheirwheriuwe"
+  },
 ]
